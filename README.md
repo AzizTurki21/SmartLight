@@ -17,3 +17,7 @@ The current values are in `MainActivity.java`:
 - Client ID: `AndroidClient`
 
 This is a public broker connection without TLS or authentication, and the topic is not private. Treat it as a learning demo only. Do not connect it to a real light or other device. For a real setup, use a broker and topic you control, with authentication and TLS, and configure a unique client ID. This repository contains the Android client; it does not include receiver firmware or a wiring diagram.
+
+---
+
+[©](https://www.google.com/url?sa=t\&rct=j\&q=\&esrc=s\&source=web\&cd=\&ved=2ahUKEwjzju28hu6XAxXJRv4FHRh3Ig0QFnoECBAQAQ\&url=CAESWAHrOzAVtYcEstJL-hlsYH2cx_UHgieapeL5nBQtUKWwQaRB8lQyJ1UlN9og_Cn8Qde_uZWtOCmSAz24iGijz5qs9WjGyp0szyxoXINP5SwQlImWqFiMGWE\&uoh=2\&usg=AOvVaw3RsaJBv9Ghf9gJTeeFH94z\&opi=89978449) reserved to MAT
